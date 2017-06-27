@@ -9,8 +9,9 @@ Self-Driving Car Engineer Nanodegree Program
 Your robot has been kidnapped and transported to a new location! Luckily it has a map of this location, a (noisy) GPS estimate of its initial location, and lots of (noisy) sensor and control data.
 
 The following animation shows what it looks like when the simulator successfully tracks the car to a particle. The `green laser sensors` from the car nearly overlap the `blue laser sensors` from the particle, this means that the particle transition calculations were done correctly.
-![visualization](vis.gif)
 
+
+![visualization](vis.gif)
 
 
 ---
